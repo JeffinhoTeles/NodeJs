@@ -1,0 +1,16 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "Projeto do curso da CoderHouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeffinho Teles",  
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "moment": "^2.30.1"
+  },
+  "keywords": []
+}
