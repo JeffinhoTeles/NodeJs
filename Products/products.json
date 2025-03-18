@@ -1,21 +1,11 @@
 [
-    {
-      "id": 1,
-      "title": "Teclado Mecânico",
-      "description": "Teclado RGB mecânico com switches azuis",
-      "price": 250,
-      "thumbnail": "teclado.png",
-      "code": "TECLADO123",
-      "stock": 10
-    },
-    {
-      "id": 2,
-      "title": "Mouse Gamer",
-      "description": "Mouse óptico de alta precisão",
-      "price": 150,
-      "thumbnail": "mouse.png",
-      "code": "MOUSE123",
-      "stock": 15
-    }
-  ]
-  
+  {
+    "id": 2,
+    "title": "Mouse Gamer",
+    "description": "Mouse óptico de alta precisão",
+    "price": 150,
+    "thumbnail": "mouse.png",
+    "code": "MOUSE123",
+    "stock": 15
+  }
+]
