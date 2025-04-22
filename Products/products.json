@@ -7,5 +7,16 @@
     "thumbnail": "mouse.png",
     "code": "MOUSE123",
     "stock": 15
+  },
+  {
+    "id": 1745340059196,
+    "thumbnails": [],
+    "title": "Produto Teste",
+    "description": "Um produto qualquer",
+    "code": "PROD123",
+    "price": 99.9,
+    "stock": 10,
+    "category": "geral",
+    "status": true
   }
 ]

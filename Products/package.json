@@ -4,7 +4,7 @@
   "description": "Projeto do curso da CoderHouse",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/app.js"   
   },
   "author": "Jeffinho Teles",  
   "license": "MIT",
@@ -13,4 +13,6 @@
     "moment": "^2.30.1"
   },
   "keywords": []
+
+  
 }
